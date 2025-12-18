@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.dist-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.coverage
+*.cover
+.hypothesis/
+.mypy_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# Environment files
+.env
+.env.*
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+log/
+python_whatsapp/logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arduino build artifacts
+arduino_code/**/build/
